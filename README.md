@@ -1,6 +1,6 @@
 # 📝 Register Form
 
-*Register Form* is a clean and responsive user registration page created using *HTML, **CSS, and **JavaScript*. It validates input fields like username, email, and password and provides instant feedback to users.
+*Register Form* is a clean and responsive user registration page created using HTML, CSS, and JavaScript. It validates input fields like username, email, and password and provides instant feedback to users.
 
 ## 🌟 Features
 
@@ -63,7 +63,7 @@ Register-Form/
 
 ## 🚀 Live Demo
 
-> Coming soon... (or update with GitHub Pages link once deployed)
+> (https://manjushree8.github.io/registration-form/)
 
 ## 💬 Feedback
 
