@@ -1,7 +1,3 @@
-Got it! Here's your updated README.md with *correct screenshot path format* and everything tailored to your folder structure:
-
----
-
 # 📝 Register Form
 
 *Register Form* is a clean and responsive user registration page created using *HTML, **CSS, and **JavaScript*. It validates input fields like username, email, and password and provides instant feedback to users.
@@ -37,9 +33,9 @@ Got it! Here's your updated README.md with *correct screenshot path format* and 
 Register-Form/
 │
 ├── Screenshots/
-│   ├── homepage.jpg               # Screenshot of the full form UI
-│   ├── ResponsiveView.jpg         # Responsive/mobile layout view
-│   └── warningMessage.jpg         # Sample of validation error message
+│   ├── (screenshots/home.png)              # Screenshot of the full form UI
+│   ├── (screenshots/responsive.png)        # Responsive/mobile layout view
+│   └── (screenshots/warning.png)        # Sample of validation error message
 │
 ├── index.html                     # Main HTML file
 ├── style.css                      # CSS for styling
@@ -51,15 +47,15 @@ Register-Form/
 
 ### 🖥 Home Page
 
-![Homepage](Screenshots/homepage.jpg)
+![Homepage](screenshots/home.png) 
 
 ### 📱 Responsive View
 
-![Responsive View](Screenshots/ResponsiveView.jpg)
+![Responsive View](screenshots/responsive.png)
 
 ### ⚠ Warning Message
 
-![Warning Message](Screenshots/warningMessage.jpg)
+![Warning Message](screenshots/warning.png)
 
 ## 👩‍💻 Author
 
@@ -73,8 +69,5 @@ Register-Form/
 
 If you have suggestions or improvements, feel free to open an issue or contribute.
 
-Made with 💙 using HTML, CSS, and JavaScript.
+Made with using HTML, CSS, and JavaScript.
 
----
-
-Let me know if you want me to help generate the GitHub Pages live link or add more features like *show/hide password, **confirm password, or **login page* support.# registration-form
